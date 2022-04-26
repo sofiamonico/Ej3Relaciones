@@ -54,16 +54,7 @@ public class Baraja {
     public String toString() {
         return "Baraja{" + "cartas=" + cartas + ", cartasUsadas=" + cartasUsadas + '}';
     }
-    
-    
-
-    
-    
-    
-    
-    
-   
-    
+ 
     public void llenarBaraja(){
         this.cartas=new ArrayList();
         this.cartasUsadas=new ArrayList();
